@@ -1,7 +1,0 @@
-
-            Fonts used: NexaRustSlab-Black,SourceSansPro-Black 
-
-            Colors used: F67571,020202  
-
-              
-        
